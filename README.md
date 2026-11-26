@@ -11,8 +11,6 @@ Landing page / catálogo de PIJAMU construida con Next.js para publicar en Verce
 ```bash
 npm install
 cp .env.example .env.local
-# Edita NEXT_PUBLIC_WHATSAPP_NUMBER con el número de WhatsApp Business,
-# incluyendo código de país y sin +, espacios ni guiones. Ejemplo: 573001234567
 npm run dev
 ```
 Abre http://localhost:3000.
@@ -21,7 +19,7 @@ Abre http://localhost:3000.
 1. Crea un repositorio nuevo en GitHub llamado `pijamu-store`.
 2. Sube todos los archivos de esta carpeta al repositorio (no subas `node_modules`).
 3. En Vercel, elige **Add New → Project**, importa `pijamu-store` y deja el framework como Next.js.
-4. En **Environment Variables**, agrega `NEXT_PUBLIC_WHATSAPP_NUMBER` con tu número de WhatsApp Business en formato internacional sin `+`.
+4. El número de WhatsApp ya está configurado en el proyecto: +57 302 740 6626. No necesitas configurar variables de entorno.
 5. Pulsa **Deploy**. Vercel generará una URL pública.
 
 ## Personalización
