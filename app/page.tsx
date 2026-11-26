@@ -36,10 +36,10 @@ export default function Home() {
         <span className="eyebrow">DULCES SUEÑOS, MOMENTOS BONITOS</span>
         <h1>Tu momento más <em>cómodo</em> del día.</h1>
         <p>Descubre pijamas llenas de ternura, color y comodidad para ti y para quienes más quieres.</p>
+        <div className="hero-art"><img src="/images/brand/hero-banner.png" alt="Colección PIJAMU: pijamas y detalles cute" /></div>
         <div className="hero-actions"><a className="button primary" href="#catalogo">Explorar pijamas <span>♡</span></a><a className="text-link" href={instagram} target="_blank" rel="noreferrer">Ver novedades en Instagram ↗</a></div>
         <div className="trust"><span>♡ Diseños encantadores</span><span>♡ Para toda la familia</span><span>♡ Atención cercana</span></div>
       </div>
-      <div className="hero-art"><img src="/images/brand/hero-banner.png" alt="Colección PIJAMU: pijamas y detalles cute" /></div>
       <div className="floating-heart heart-one">♡</div><div className="floating-heart heart-two">♡</div>
     </section>
     <section className="benefits"><div className="wrap benefits-grid"><div><b>01</b><span>Comodidad total</span></div><div><b>02</b><span>Diseños que enamoran</span></div><div><b>03</b><span>Opciones para todos</span></div><div><b>04</b><span>Detalles llenos de amor</span></div></div></section>
