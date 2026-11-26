@@ -5,7 +5,7 @@ import { products } from "./products";
 const categories = ["Todos", "Mujer", "Hombre", "Niños", "Parejas", "Navidad"];
 const instagram = "https://www.instagram.com/pijamustore/";
 const tiktok = "https://www.tiktok.com/@pijamu.oficial";
-const whatsappNumber = "573027406626";
+const whatsappNumber = "573234917597";
 
 function money(value:number) {
   return new Intl.NumberFormat("es-CO", { style:"currency", currency:"COP", maximumFractionDigits:0 }).format(value);
