@@ -4,7 +4,7 @@ export const products: Product[] = [
     "id": "bata-talla-unica",
     "name": "Bata para dama",
     "category": "Mujer",
-    "price": 25575,
+    "price": 25900,
     "sizes": "Talla única",
     "image": "/images/catalog/bata-talla-unica/01.jpeg",
     "images": [
@@ -36,7 +36,7 @@ export const products: Product[] = [
     "id": "batola-talla-extra",
     "name": "Batola para dama",
     "category": "Mujer",
-    "price": 30225,
+    "price": 30900,
     "sizes": "Talla extra",
     "image": "/images/catalog/batola-talla-extra/01.jpeg",
     "images": [
@@ -57,7 +57,7 @@ export const products: Product[] = [
     "id": "bluson-oversize",
     "name": "Blusón oversize",
     "category": "Mujer",
-    "price": 32550,
+    "price": 32900,
     "sizes": "Talla única (cede de S a XL)",
     "image": "/images/catalog/bluson-oversize/01.jpeg",
     "images": [
@@ -80,7 +80,7 @@ export const products: Product[] = [
     "id": "capri-en-manga-talla-extra",
     "name": "Pijama capri en manga",
     "category": "Mujer",
-    "price": 41850,
+    "price": 41900,
     "sizes": "Talla extra",
     "image": "/images/catalog/capri-en-manga-talla-extra/01.jpeg",
     "images": [
@@ -103,8 +103,8 @@ export const products: Product[] = [
     "id": "navidena-dama",
     "name": "Pijama navideña para dama",
     "category": "Navidad",
-    "price": null,
-    "sizes": "Consultar tallas",
+    "price": 54900,
+    "sizes": "Talla extra",
     "image": "/images/catalog/navidena-dama/01.jpeg",
     "images": [
       "/images/catalog/navidena-dama/01.jpeg",
@@ -124,8 +124,8 @@ export const products: Product[] = [
     "id": "navidena-familia",
     "name": "Pijamas navideñas para familia",
     "category": "Navidad",
-    "price": null,
-    "sizes": "Consultar tallas",
+    "price": 51900,
+    "sizes": "Talla única",
     "image": "/images/catalog/navidena-familia/01.jpeg",
     "images": [
       "/images/catalog/navidena-familia/01.jpeg",
@@ -144,8 +144,8 @@ export const products: Product[] = [
     "id": "navidena-nino",
     "name": "Pijama navideña para niño",
     "category": "Niños",
-    "price": null,
-    "sizes": "Tallas 2–12: $33.325 · Tallas 14–16: $37.200",
+    "price": 33900,
+    "sizes": "Tallas 2–12: $33.900 · Tallas 14–16: $37.900",
     "image": "/images/catalog/navidena-nino/01.jpeg",
     "images": [
       "/images/catalog/navidena-nino/01.jpeg",
@@ -164,7 +164,7 @@ export const products: Product[] = [
     "id": "pantalon-dama-en-manga-talla-extra",
     "name": "Pijama pantalón dama en manga",
     "category": "Mujer",
-    "price": 45725,
+    "price": 45900,
     "sizes": "Talla extra",
     "image": "/images/catalog/pantalon-dama-en-manga-talla-extra/01.jpeg",
     "images": [
@@ -203,7 +203,7 @@ export const products: Product[] = [
     "id": "pantalon-dama-en-manga-talla-unica",
     "name": "Pijama pantalón dama en manga",
     "category": "Mujer",
-    "price": 39525,
+    "price": 39900,
     "sizes": "Talla única",
     "image": "/images/catalog/pantalon-dama-en-manga-talla-unica/01.jpeg",
     "images": [
@@ -228,7 +228,7 @@ export const products: Product[] = [
     "id": "pantalon-dama-en-tira-talla-unica",
     "name": "Pijama pantalón dama en tira",
     "category": "Mujer",
-    "price": 39525,
+    "price": 39900,
     "sizes": "Talla única",
     "image": "/images/catalog/pantalon-dama-en-tira-talla-unica/01.jpeg",
     "images": [
@@ -250,10 +250,10 @@ export const products: Product[] = [
   },
   {
     "id": "pantalon-dama-manga-larga",
-    "name": "Pijama pantalón dama manga larga",
+    "name": "Pijama pantalón dama manga larga con moño",
     "category": "Mujer",
-    "price": null,
-    "sizes": "Consultar tallas",
+    "price": 41900,
+    "sizes": "Talla única",
     "image": "/images/catalog/pantalon-dama-manga-larga/01.jpeg",
     "images": [
       "/images/catalog/pantalon-dama-manga-larga/01.jpeg",
@@ -270,8 +270,8 @@ export const products: Product[] = [
     "id": "pijaa-pantalon-nino-talla-6-8-10-12-y-14-16",
     "name": "Pijama pantalón para niño",
     "category": "Niños",
-    "price": 33325,
-    "sizes": "Tallas 6–12; talla 14–16: $37.200",
+    "price": 33900,
+    "sizes": "Tallas 6–12: $33.900 · Talla 14–16: $37.900",
     "image": "/images/catalog/pijaa-pantalon-nino-talla-6-8-10-12-y-14-16/01.jpeg",
     "images": [
       "/images/catalog/pijaa-pantalon-nino-talla-6-8-10-12-y-14-16/01.jpeg",
@@ -295,7 +295,7 @@ export const products: Product[] = [
     "id": "pijama-capri-talla-unica",
     "name": "Pijama capri de tira",
     "category": "Mujer",
-    "price": 31775,
+    "price": 31900,
     "sizes": "Talla única",
     "image": "/images/catalog/pijama-capri-talla-unica/01.jpeg",
     "images": [
@@ -317,7 +317,7 @@ export const products: Product[] = [
     "id": "pijama-hombre-pantalon",
     "name": "Pijama caballero pantalón",
     "category": "Hombre",
-    "price": 46500,
+    "price": 46900,
     "sizes": "Talla única",
     "image": "/images/catalog/pijama-hombre-pantalon/01.jpeg",
     "images": [
@@ -364,7 +364,7 @@ export const products: Product[] = [
     "id": "pijama-nina-short-manga-talla-2-4",
     "name": "Pijama short para niña",
     "category": "Niñas",
-    "price": 29450,
+    "price": 29900,
     "sizes": "Talla 2–4",
     "image": "/images/catalog/pijama-nina-short-manga-talla-2-4/01.jpeg",
     "images": [
@@ -383,8 +383,8 @@ export const products: Product[] = [
     "id": "pijama-nino-short-talla-6-8-10-12-14-16",
     "name": "Pijama short para niño",
     "category": "Niños",
-    "price": null,
-    "sizes": "Tallas 6–16; confirmar precio",
+    "price": 29900,
+    "sizes": "Tallas 6–8, 10–12 y 14–16",
     "image": "/images/catalog/pijama-nino-short-talla-6-8-10-12-14-16/01.jpeg",
     "images": [
       "/images/catalog/pijama-nino-short-talla-6-8-10-12-14-16/01.jpeg",
@@ -404,8 +404,8 @@ export const products: Product[] = [
     "id": "pijama-pantalon-nina-manca-corta-talla-6-8-10-12-y-14-16",
     "name": "Pijama pantalón manga corta para niña",
     "category": "Niñas",
-    "price": 33325,
-    "sizes": "Tallas 6–12; talla 14–16: $37.200",
+    "price": 33900,
+    "sizes": "Tallas 6–12: $33.900 · Talla 14–16: $37.200",
     "image": "/images/catalog/pijama-pantalon-nina-manca-corta-talla-6-8-10-12-y-14-16/01.jpeg",
     "images": [
       "/images/catalog/pijama-pantalon-nina-manca-corta-talla-6-8-10-12-y-14-16/01.jpeg",
@@ -427,7 +427,7 @@ export const products: Product[] = [
     "id": "pijama-pantalon-nina-talla-2-4",
     "name": "Pijama pantalón para niña",
     "category": "Niñas",
-    "price": 33325,
+    "price": 33900,
     "sizes": "Talla 2–4",
     "image": "/images/catalog/pijama-pantalon-nina-talla-2-4/01.jpeg",
     "images": [
@@ -449,7 +449,7 @@ export const products: Product[] = [
     "id": "pijama-pantalon-nino-talla-2-4",
     "name": "Pijama pantalón para niño",
     "category": "Niños",
-    "price": 33325,
+    "price": 33900,
     "sizes": "Talla 2–4",
     "image": "/images/catalog/pijama-pantalon-nino-talla-2-4/01.jpeg",
     "images": [
@@ -469,8 +469,8 @@ export const products: Product[] = [
     "id": "pijama-short-nina-talla-6-8-y-14-16",
     "name": "Pijama short para niña",
     "category": "Niñas",
-    "price": 29450,
-    "sizes": "Tallas 6–12: $29.450; talla 14–16: $31.000",
+    "price": 29900,
+    "sizes": "Tallas 6–12: $29.900 · Talla 14–16: $31.900",
     "image": "/images/catalog/pijama-short-nina-talla-6-8-y-14-16/01.jpeg",
     "images": [
       "/images/catalog/pijama-short-nina-talla-6-8-y-14-16/01.jpeg",
@@ -488,7 +488,7 @@ export const products: Product[] = [
     "id": "pijama-short-nino-manga-corta-talla-2-4",
     "name": "Pijama short manga corta para niño",
     "category": "Niños",
-    "price": 29450,
+    "price": 29900,
     "sizes": "Talla 2–4",
     "image": "/images/catalog/pijama-short-nino-manga-corta-talla-2-4/01.jpeg",
     "images": [
@@ -504,8 +504,8 @@ export const products: Product[] = [
     "id": "pijama-short-bluson-talla-unica",
     "name": "Pijama short con blusón",
     "category": "Mujer",
-    "price": null,
-    "sizes": "Talla única; confirmar precio",
+    "price": 29900,
+    "sizes": "Talla única",
     "image": "/images/catalog/pijama-short-bluson-talla-unica/01.jpeg",
     "images": [
       "/images/catalog/pijama-short-bluson-talla-unica/01.jpeg",
@@ -535,8 +535,8 @@ export const products: Product[] = [
     "id": "pijamas-parejas",
     "name": "Pijamas para parejas",
     "category": "Parejas",
-    "price": 64325,
-    "sizes": "Según conjunto; desde $49.500",
+    "price": 64900,
+    "sizes": "Talla única",
     "image": "/images/catalog/pijamas-parejas/01.jpeg",
     "images": [
       "/images/catalog/pijamas-parejas/01.jpeg",
@@ -550,7 +550,7 @@ export const products: Product[] = [
     "id": "short-blusa-manga-blanca-talla-unica",
     "name": "Pijama short blusa manga blanca",
     "category": "Mujer",
-    "price": 24025,
+    "price": 24900,
     "sizes": "Talla única",
     "image": "/images/catalog/short-blusa-manga-blanca-talla-unica/01.jpeg",
     "images": [
@@ -582,7 +582,7 @@ export const products: Product[] = [
     "id": "short-blusa-tira-sublimada-talla-unica",
     "name": "Pijama short blusa tira sublimada",
     "category": "Mujer",
-    "price": 24800,
+    "price": 24900,
     "sizes": "Talla única",
     "image": "/images/catalog/short-blusa-tira-sublimada-talla-unica/01.jpeg",
     "images": [
@@ -607,7 +607,7 @@ export const products: Product[] = [
     "id": "short-manga-blanca-talla-extra",
     "name": "Pijama short manga blanca",
     "category": "Mujer",
-    "price": 30225,
+    "price": 30900,
     "sizes": "Talla extra",
     "image": "/images/catalog/short-manga-blanca-talla-extra/01.jpeg",
     "images": [
@@ -630,7 +630,7 @@ export const products: Product[] = [
     "id": "short-manga-size-talla-unica",
     "name": "Pijama short manga size",
     "category": "Mujer",
-    "price": 27125,
+    "price": 29700,
     "sizes": "Talla única",
     "image": "/images/catalog/short-manga-size-talla-unica/01.jpeg",
     "images": [
@@ -654,7 +654,7 @@ export const products: Product[] = [
     "id": "short-tira-blanca-talla-unica",
     "name": "Pijama short tira blanca",
     "category": "Mujer",
-    "price": 22475,
+    "price": 22900,
     "sizes": "Talla única",
     "image": "/images/catalog/short-tira-blanca-talla-unica/01.jpeg",
     "images": [
@@ -693,7 +693,7 @@ export const products: Product[] = [
     "id": "short-y-blusa-de-tira-talla-extra",
     "name": "Pijama short y blusa de tira",
     "category": "Mujer",
-    "price": 28675,
+    "price": 28900,
     "sizes": "Talla extra",
     "image": "/images/catalog/short-y-blusa-de-tira-talla-extra/01.jpeg",
     "images": [
@@ -731,7 +731,7 @@ export const products: Product[] = [
     "id": "short-blusa-manga-larga-talla-unica",
     "name": "Pijama short blusa manga larga",
     "category": "Mujer",
-    "price": 31000,
+    "price": 31900,
     "sizes": "Talla única",
     "image": "/images/catalog/short-blusa-manga-larga-talla-unica/01.jpeg",
     "images": [
